@@ -1,0 +1,6 @@
+.env
+__pycache__/
+*.csv
+*.png
+*.html
+.venv/

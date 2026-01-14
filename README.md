@@ -21,7 +21,7 @@ A robust tool to scrape daily commodity prices from Indian Mandis (Markets) usin
 1. **Clone the repository:**
    ```powershell
    git clone https://github.com/pankajjjat/mandi-scraper.git
-   cd scraper
+   cd mandi-scraper
    ```
 
 2. **Create and activate a virtual environment:**
@@ -41,7 +41,7 @@ A robust tool to scrape daily commodity prices from Indian Mandis (Markets) usin
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/pankajjjat/mandi-scraper.git
-   cd scraper
+   cd mandi-scraper
    ```
 
 2. **Create and activate a virtual environment:**
@@ -89,5 +89,6 @@ python cli_interactive.py
 
 ## License
 MIT
+
 
 
